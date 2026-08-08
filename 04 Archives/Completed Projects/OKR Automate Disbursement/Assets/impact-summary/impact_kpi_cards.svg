@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="420" viewBox="0 0 1120 420">
+<rect x="0.0" y="0.0" width="1120.0" height="420.0" rx="0" fill="#FCFCFD"/>
+<text x="42.0" y="44.0" font-family="Inter, Aptos, Segoe UI, Arial, sans-serif" font-size="24" font-weight="700" text-anchor="start" fill="#1F2430">Auto Disburse impact at a glance</text>
+<text x="42.0" y="72.0" font-family="Inter, Aptos, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" text-anchor="start" fill="#6F768A">Before period: 2025-08-21 to 2026-03-11. Automatic period: 2026-03-12 to 2026-05-29.</text>
+<line x1="42.0" y1="91.0" x2="1078.0" y2="91.0" stroke="#E6E8F0" stroke-width="1"/>
+<rect x="42.0" y="126.0" width="246.0" height="190.0" rx="8" fill="#FFFFFF" stroke="#E6E8F0" stroke-width="1"/>
+<rect x="42.0" y="126.0" width="8.0" height="190.0" rx="4" fill="#5477C4"/>
+<text x="66.0" y="168.0" font-family="Inter, Aptos, Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" text-anchor="start" fill="#6F768A">Lead time stabilized</text>
+<text x="66.0" y="222.0" font-family="Menlo, Consolas, monospace" font-size="28" font-weight="700" text-anchor="start" fill="#1F2430">15.73h -&gt; 14.00h</text>
+<text x="66.0" y="262.0" font-family="Inter, Aptos, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" text-anchor="start" fill="#464C55">-1.73h average reduction</text>
+<rect x="312.0" y="126.0" width="246.0" height="190.0" rx="8" fill="#FFFFFF" stroke="#E6E8F0" stroke-width="1"/>
+<rect x="312.0" y="126.0" width="8.0" height="190.0" rx="4" fill="#71B436"/>
+<text x="336.0" y="168.0" font-family="Inter, Aptos, Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" text-anchor="start" fill="#6F768A">Adjustment rate reduced</text>
+<text x="336.0" y="222.0" font-family="Menlo, Consolas, monospace" font-size="28" font-weight="700" text-anchor="start" fill="#1F2430">0.32% -&gt; 0.06%</text>
+<text x="336.0" y="262.0" font-family="Inter, Aptos, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" text-anchor="start" fill="#464C55">82% relative reduction</text>
+<rect x="582.0" y="126.0" width="246.0" height="190.0" rx="8" fill="#FFFFFF" stroke="#E6E8F0" stroke-width="1"/>
+<rect x="582.0" y="126.0" width="8.0" height="190.0" rx="4" fill="#CC6F47"/>
+<text x="606.0" y="168.0" font-family="Inter, Aptos, Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" text-anchor="start" fill="#6F768A">Late disbursement removed</text>
+<text x="606.0" y="222.0" font-family="Menlo, Consolas, monospace" font-size="28" font-weight="700" text-anchor="start" fill="#1F2430">25% -&gt; 0%</text>
+<text x="606.0" y="262.0" font-family="Inter, Aptos, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" text-anchor="start" fill="#464C55">Share of days after 17:00</text>
+<rect x="852.0" y="126.0" width="246.0" height="190.0" rx="8" fill="#FFFFFF" stroke="#E6E8F0" stroke-width="1"/>
+<rect x="852.0" y="126.0" width="8.0" height="190.0" rx="4" fill="#B8A037"/>
+<text x="876.0" y="168.0" font-family="Inter, Aptos, Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" text-anchor="start" fill="#6F768A">Automation consistency</text>
+<text x="876.0" y="222.0" font-family="Menlo, Consolas, monospace" font-size="28" font-weight="700" text-anchor="start" fill="#1F2430">55 / 55 days</text>
+<text x="876.0" y="262.0" font-family="Inter, Aptos, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" text-anchor="start" fill="#464C55">All automatic days hit 14:00</text>
+<text x="42.0" y="360.0" font-family="Inter, Aptos, Segoe UI, Arial, sans-serif" font-size="14" font-weight="600" text-anchor="start" fill="#1F2430">Statistical read: permutation tests show the after-period mean lead time and adjustment-rate improvements are unlikely under random period assignment (p &lt; 0.001).</text>
+<text x="42.0" y="386.0" font-family="Inter, Aptos, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" text-anchor="start" fill="#6F768A">Business read: the process moved from variable, issue-sensitive disbursement timing to a controlled daily 14:00 operating standard.</text>
+</svg>

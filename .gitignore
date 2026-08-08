@@ -1,0 +1,11 @@
+.DS_Store
+.Rhistory
+.trash/
+
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+
+# Large meeting recordings; keep the local files outside the Git repository.
+01 Projects/Ziyadah x MSI/2026-04-24 08.43.16 Meeting Pendampingan Klien Ziyadah Consulting/video1192344199.mp4
+01 Projects/Ziyadah x MSI/2026-04-24 08.43.16 Meeting Pendampingan Klien Ziyadah Consulting/audio1192344199.m4a

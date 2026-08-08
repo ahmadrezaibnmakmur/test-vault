@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="520" viewBox="0 0 1120 520">
+<rect x="0.0" y="0.0" width="1120.0" height="520.0" rx="0" fill="#FCFCFD"/>
+<text x="42.0" y="44.0" font-family="Inter, Aptos, Segoe UI, Arial, sans-serif" font-size="24" font-weight="700" text-anchor="start" fill="#1F2430">Before vs automatic-period impact</text>
+<text x="42.0" y="72.0" font-family="Inter, Aptos, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" text-anchor="start" fill="#6F768A">Average lead time and total adjustment rate by operating period.</text>
+<line x1="42.0" y1="91.0" x2="1078.0" y2="91.0" stroke="#E6E8F0" stroke-width="1"/>
+<text x="86.0" y="110.0" font-family="Inter, Aptos, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" text-anchor="start" fill="#1F2430">Average lead time</text>
+<text x="86.0" y="132.0" font-family="Inter, Aptos, Segoe UI, Arial, sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#6F768A">hours | Lower is better</text>
+<line x1="86.0" y1="390.0" x2="476.0" y2="390.0" stroke="#E6E8F0" stroke-width="1" stroke-dasharray="3 5"/>
+<text x="76.0" y="394.0" font-family="Menlo, Consolas, monospace" font-size="11" font-weight="400" text-anchor="end" fill="#6F768A">0</text>
+<line x1="86.0" y1="333.8" x2="476.0" y2="333.8" stroke="#E6E8F0" stroke-width="1" stroke-dasharray="3 5"/>
+<text x="76.0" y="337.8" font-family="Menlo, Consolas, monospace" font-size="11" font-weight="400" text-anchor="end" fill="#6F768A">5</text>
+<line x1="86.0" y1="277.5" x2="476.0" y2="277.5" stroke="#E6E8F0" stroke-width="1" stroke-dasharray="3 5"/>
+<text x="76.0" y="281.5" font-family="Menlo, Consolas, monospace" font-size="11" font-weight="400" text-anchor="end" fill="#6F768A">9</text>
+<line x1="86.0" y1="221.2" x2="476.0" y2="221.2" stroke="#E6E8F0" stroke-width="1" stroke-dasharray="3 5"/>
+<text x="76.0" y="225.2" font-family="Menlo, Consolas, monospace" font-size="11" font-weight="400" text-anchor="end" fill="#6F768A">14</text>
+<line x1="86.0" y1="165.0" x2="476.0" y2="165.0" stroke="#E6E8F0" stroke-width="1" stroke-dasharray="3 5"/>
+<text x="76.0" y="169.0" font-family="Menlo, Consolas, monospace" font-size="11" font-weight="400" text-anchor="end" fill="#6F768A">18</text>
+<rect x="184.0" y="198.7" width="84.0" height="191.3" rx="3" fill="#C5CAD3" stroke="#464C55" stroke-width="1"/>
+<text x="226.0" y="188.7" font-family="Menlo, Consolas, monospace" font-size="13" font-weight="700" text-anchor="middle" fill="#1F2430">15.73h</text>
+<text x="226.0" y="417.0" font-family="Inter, Aptos, Segoe UI, Arial, sans-serif" font-size="12" font-weight="400" text-anchor="middle" fill="#6F768A">Before</text>
+<rect x="324.0" y="219.7" width="84.0" height="170.3" rx="3" fill="#5477C4" stroke="#464C55" stroke-width="1"/>
+<text x="366.0" y="209.7" font-family="Menlo, Consolas, monospace" font-size="13" font-weight="700" text-anchor="middle" fill="#1F2430">14.00h</text>
+<text x="366.0" y="417.0" font-family="Inter, Aptos, Segoe UI, Arial, sans-serif" font-size="12" font-weight="400" text-anchor="middle" fill="#6F768A">Automatic</text>
+<line x1="86.0" y1="390.0" x2="476.0" y2="390.0" stroke="#D7DBE7" stroke-width="1"/>
+<text x="622.0" y="110.0" font-family="Inter, Aptos, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" text-anchor="start" fill="#1F2430">Adjustment rate</text>
+<text x="622.0" y="132.0" font-family="Inter, Aptos, Segoe UI, Arial, sans-serif" font-size="12" font-weight="400" text-anchor="start" fill="#6F768A">% of transactions adjusted | Lower is better</text>
+<line x1="622.0" y1="390.0" x2="1012.0" y2="390.0" stroke="#E6E8F0" stroke-width="1" stroke-dasharray="3 5"/>
+<text x="612.0" y="394.0" font-family="Menlo, Consolas, monospace" font-size="11" font-weight="400" text-anchor="end" fill="#6F768A">0.00</text>
+<line x1="622.0" y1="333.8" x2="1012.0" y2="333.8" stroke="#E6E8F0" stroke-width="1" stroke-dasharray="3 5"/>
+<text x="612.0" y="337.8" font-family="Menlo, Consolas, monospace" font-size="11" font-weight="400" text-anchor="end" fill="#6F768A">0.10</text>
+<line x1="622.0" y1="277.5" x2="1012.0" y2="277.5" stroke="#E6E8F0" stroke-width="1" stroke-dasharray="3 5"/>
+<text x="612.0" y="281.5" font-family="Menlo, Consolas, monospace" font-size="11" font-weight="400" text-anchor="end" fill="#6F768A">0.19</text>
+<line x1="622.0" y1="221.2" x2="1012.0" y2="221.2" stroke="#E6E8F0" stroke-width="1" stroke-dasharray="3 5"/>
+<text x="612.0" y="225.2" font-family="Menlo, Consolas, monospace" font-size="11" font-weight="400" text-anchor="end" fill="#6F768A">0.29</text>
+<line x1="622.0" y1="165.0" x2="1012.0" y2="165.0" stroke="#E6E8F0" stroke-width="1" stroke-dasharray="3 5"/>
+<text x="612.0" y="169.0" font-family="Menlo, Consolas, monospace" font-size="11" font-weight="400" text-anchor="end" fill="#6F768A">0.38</text>
+<rect x="720.0" y="199.5" width="84.0" height="190.5" rx="3" fill="#C5CAD3" stroke="#464C55" stroke-width="1"/>
+<text x="762.0" y="189.5" font-family="Menlo, Consolas, monospace" font-size="13" font-weight="700" text-anchor="middle" fill="#1F2430">0.32%</text>
+<text x="762.0" y="417.0" font-family="Inter, Aptos, Segoe UI, Arial, sans-serif" font-size="12" font-weight="400" text-anchor="middle" fill="#6F768A">Before</text>
+<rect x="860.0" y="356.4" width="84.0" height="33.6" rx="3" fill="#71B436" stroke="#464C55" stroke-width="1"/>
+<text x="902.0" y="346.4" font-family="Menlo, Consolas, monospace" font-size="13" font-weight="700" text-anchor="middle" fill="#1F2430">0.06%</text>
+<text x="902.0" y="417.0" font-family="Inter, Aptos, Segoe UI, Arial, sans-serif" font-size="12" font-weight="400" text-anchor="middle" fill="#6F768A">Automatic</text>
+<line x1="622.0" y1="390.0" x2="1012.0" y2="390.0" stroke="#D7DBE7" stroke-width="1"/>
+<text x="76.0" y="470.0" font-family="Inter, Aptos, Segoe UI, Arial, sans-serif" font-size="13" font-weight="600" text-anchor="start" fill="#1F2430">Permutation test result: both period differences are statistically strong at p &lt; 0.001; see note methodology for caveats.</text>
+</svg>
